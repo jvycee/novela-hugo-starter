@@ -6,6 +6,5 @@ social:
 - title: Twitter
   url: https://twitter.com/jvycee_
 featured: true
-draft: true
 
 ---
