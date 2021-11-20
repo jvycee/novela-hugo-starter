@@ -5,7 +5,6 @@ title: Hello, world
 excerpt: ''
 date: 
 hero: ''
-draft: true
 
 ---
 # Hello, world 👋
